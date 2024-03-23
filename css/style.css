@@ -1,0 +1,28 @@
+.navbar {
+    background-color: #ffffff;
+}
+.nav-link {
+    color: black;
+    margin: 0px 35px 0px 0px;
+}
+
+.navbar-brand {
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.navbar-brand > img {
+    width: 40px;
+}
+
+.feature-icon {
+    width: 4rem;
+    height: 4rem;
+    border-radius: 0.75rem;
+}
+
+@media (max-width: 676px){
+    .copyright {
+        text-align: center;
+    }
+}
